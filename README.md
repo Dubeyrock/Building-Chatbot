@@ -1,4 +1,4 @@
-[![Downloads](https://static.pepy.tech/badge/chatbotai)](https://pepy.tech/project/chatbotai)
+
 [![PyPI version](https://badge.fury.io/py/chatbotAI.svg)](https://badge.fury.io/py/chatbotAI)
 ![Upload Python Package]
 
