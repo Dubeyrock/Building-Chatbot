@@ -10,7 +10,11 @@ makes it unique and more powerful in functionality. This AI provides
 numerous features like learn, memory, conditional switch, topic-based
 conversation handling, etc.
 
-https://raw.githubusercontent.com/ahmadfaizalbh/Chatbot/master/images/demo_gui.gif
+## demo 
+![image](https://github.com/user-attachments/assets/593267f1-a613-40e1-a0e1-ef7efaf137d2)
+![Screenshot (1136)](https://github.com/user-attachments/assets/af5d74c0-8931-4b4c-9033-befbda2a77dd)
+
+![demo_gui](https://github.com/user-attachments/assets/329056f5-8fd4-4e1f-9197-6c0688db4f8c)
 
 ## Installation
 
