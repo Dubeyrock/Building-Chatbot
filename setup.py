@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+### python code heree 
 from os.path import join, dirname, abspath
 from runpy import run_path
 from setuptools import setup
@@ -38,7 +38,7 @@ setup(
     packages=list(package_dir.keys()),
     license='MIT',
     keywords='chatbot ai engine and chat builder platform',
-    platforms=["Windows", "Linux", "Solaris", "Mac OS-X", "Unix"],
+    platforms=["Windows", ],
     package_dir=package_dir,
     include_package_data=True,
     package_data={"chatbot":  package_data},
